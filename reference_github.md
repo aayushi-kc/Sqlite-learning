@@ -379,3 +379,10 @@ git pull
 **Push uploads your commits to GitHub.**
 
 **Pull downloads commits from GitHub.**
+
+git pull
+# Make changes
+git status
+git add .
+git commit -m "Describe changes"
+git push
