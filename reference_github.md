@@ -387,8 +387,3 @@ git add .
 git commit -m "Describe changes"
 git push
 
-<<<<<<< Updated upstream
-# This is second test on git stash feature
-=======
-# Git stash is used to temporarily save unfinished work.
->>>>>>> Stashed changes
